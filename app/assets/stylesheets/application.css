@@ -13,3 +13,40 @@
  *= require_tree .
  *= require_self
  */
+
+.jumbotron {
+    padding: 15px 15px 15px 15px;
+
+}
+.gray{
+    background-color: gray;
+}
+
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.red {
+    background-color: red;
+}
+
+.purplen {
+    background-color: purple;
+}
+
+.maroon {
+    background-color: green;
+}
+
+.grey {
+    background-color: grey;
+}
